@@ -1,10 +1,6 @@
 import smtplib
 import base64
-"""
- id: cu.project1@gmail.com
- password:project@1
 
- """
 def relogin():
     a=input()
     if a=='y':
